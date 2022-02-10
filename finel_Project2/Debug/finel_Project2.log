@@ -1,0 +1,39 @@
+﻿  Player.cpp
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Slot.h(16,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Slot.h(17,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Asset.h(18,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Asset.h(20,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\instruction.h(14,13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\instruction.h(15,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\GameEngine.h(28,32): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\GameEngine.h(34,31): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\GameEngine.h(35,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.h(31,8): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.h(32,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.h(35,8): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.cpp(8,31): warning C5043: 'Player::Player': exception specification does not match previous declaration
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.h(31): message : see declaration of 'Player::Player'
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.cpp(25,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.cpp(62,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Slot.cpp
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Slot.h(16,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Slot.h(17,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Slot.cpp(7,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Void.cpp
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Slot.h(16,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Slot.h(17,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Asset.h(18,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Asset.h(20,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.h(31,8): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.h(32,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.h(35,8): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\instruction.h(14,13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\instruction.h(15,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\GameEngine.h(28,32): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\GameEngine.h(34,31): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\GameEngine.h(35,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Void.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Void.cpp(6,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\finel_Project2\Player.cpp(96): warning C4715: 'Player::charge_money': not all control paths return a value
+  finel_Project2.vcxproj -> C:\Users\GALSU\OneDrive - Ruppin Academic Center\Desktop\finel_Project2\Debug\finel_Project2.exe
