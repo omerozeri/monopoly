@@ -1,0 +1,18 @@
+﻿I,S,Start : get 350 Nis
+P,City1,property1,150,20
+P,City1,property2,180,35
+P,City1,property3,140,15
+I,J,Jail
+P,City2,property1,300,50
+I,T,Get Ticket
+P,City2,property2,450,90
+P,City2,property3,375,65
+I,T,Get Ticket
+P,City3,property1,250,45
+I,T,Get Ticket
+P,City3,property2,220,35
+P,City3,property3,280,60
+P,City4,property1,100,5
+P,City4,property2,150,12
+P,City4,property3,180,25
+P,City4,property4,220,35
